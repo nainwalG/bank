@@ -5,6 +5,7 @@ public class Account {
     private long accountNumber;
     private User user;
 
+
     public long getAccountNumber() {
         return accountNumber;
     }
